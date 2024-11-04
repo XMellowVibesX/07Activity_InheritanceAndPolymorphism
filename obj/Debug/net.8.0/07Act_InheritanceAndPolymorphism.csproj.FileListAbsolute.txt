@@ -1,0 +1,14 @@
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\07Act_InheritanceAndPolymorphism\bin\Debug\net8.0\07Act_InheritanceAndPolymorphism.exe
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\07Act_InheritanceAndPolymorphism\bin\Debug\net8.0\07Act_InheritanceAndPolymorphism.deps.json
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\07Act_InheritanceAndPolymorphism\bin\Debug\net8.0\07Act_InheritanceAndPolymorphism.runtimeconfig.json
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\07Act_InheritanceAndPolymorphism\bin\Debug\net8.0\07Act_InheritanceAndPolymorphism.dll
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\07Act_InheritanceAndPolymorphism\bin\Debug\net8.0\07Act_InheritanceAndPolymorphism.pdb
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\07Act_InheritanceAndPolymorphism\obj\Debug\net8.0\07Act_InheritanceAndPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\07Act_InheritanceAndPolymorphism\obj\Debug\net8.0\07Act_InheritanceAndPolymorphism.AssemblyInfoInputs.cache
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\07Act_InheritanceAndPolymorphism\obj\Debug\net8.0\07Act_InheritanceAndPolymorphism.AssemblyInfo.cs
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\07Act_InheritanceAndPolymorphism\obj\Debug\net8.0\07Act_InheritanceAndPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\07Act_InheritanceAndPolymorphism\obj\Debug\net8.0\07Act_InheritanceAndPolymorphism.dll
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\07Act_InheritanceAndPolymorphism\obj\Debug\net8.0\refint\07Act_InheritanceAndPolymorphism.dll
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\07Act_InheritanceAndPolymorphism\obj\Debug\net8.0\07Act_InheritanceAndPolymorphism.pdb
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\07Act_InheritanceAndPolymorphism\obj\Debug\net8.0\07Act_InheritanceAndPolymorphism.genruntimeconfig.cache
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\07Act_InheritanceAndPolymorphism\obj\Debug\net8.0\ref\07Act_InheritanceAndPolymorphism.dll
